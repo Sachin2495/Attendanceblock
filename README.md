@@ -17,8 +17,8 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Sachin2495/Attendanceblock.git
+   cd Attendanceblock
    ```
 
 2. Install dependences:
